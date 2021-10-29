@@ -1,4 +1,11 @@
 
+// 1. l'utente sceglie pari o dispari e inserisce un numero da 1 a 5
+// 2. Generiamo un numero random da 1 a 5 
+//  2.1 creiamo la funzione 
+// 3. sommiamo i due numeri 
+// 4 stabiliamo se la somma è pari o dispari 
+//  4.1 creiamo un'altra funzione
+// 5. stabiliamo chi ha vinto
 const userPariDisp = document.getElementById("userparidsp");
 const userNumb = document.getElementById("usernum");
 const pc = document.getElementById("pc");
